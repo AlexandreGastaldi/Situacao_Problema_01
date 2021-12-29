@@ -1,0 +1,12 @@
+PRINCIPAIS COMANDOS GIT PARA VERSIONAMENTO DA SITUAÇÃO-PROBLEMA
+
+- git branch -M main: Alterando branch principal para "main"
+- git branch develop: Criando nova branch
+- git add .: Adicionando modificações
+- git remote add: Enviando para repositório remoto
+- git remote -v: Verificando push e fetch
+- git status: Verificando status
+- git commit: Comitando alterações
+- git push -u origin develop: Enviando branch para repositório remoto
+- git push -u origin main: Enviando branch para repositório remoto
+- git log: Consultando commits
